@@ -123,7 +123,7 @@ banner() {
     clear
     echo -e "${C_BOLD}${C_CYAN}"
     echo "╔══════════════════════════════════════════════════════════════╗"
-    echo "║        Fedora 44 Post Install Guide — Skrip Otomasi           ║"
+    echo "║        Fedora 44 Post Install Guide — Skrip Otomasi          ║"
     echo "╚══════════════════════════════════════════════════════════════╝"
     echo -e "${C_RESET}"
     echo "Log lengkap disimpan di: $LOG_FILE"
